@@ -7,5 +7,5 @@ public class HelloWorld {
 		System.out.println("Adding code from GitHub");
 	}
 // new branch test
-	// Jimmy's Change
+	// Jimmy's Test
 }
